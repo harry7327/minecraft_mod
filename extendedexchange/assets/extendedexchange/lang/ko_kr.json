@@ -65,7 +65,7 @@
     "block.extendedexchange.yellow_collector": "노랑색 에너지 수집기 [MK12]",
     "block.extendedexchange.yellow_power_flower": "노랑색 파워 플라워 [MK12]",
     "block.extendedexchange.yellow_relay": "노랑색 반물질 변환기 [MK12]",
-    "extendedexchange.general.search_type": "타입 선택",
+    "extendedexchange.general.search_type": "타입 선택:",
     "extendedexchange.general.search_type.autoselected": "Auto-selected",
     "extendedexchange.general.search_type.autoselected_jei_sync": "Auto-selected (JEI Sync)",
     "extendedexchange.general.search_type.normal": "Normal",
